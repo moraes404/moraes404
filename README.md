@@ -1,16 +1,41 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=checkered&text=Olá!&fontColor=fff&fontFamily=monospace&fontSize=40)
 
-<!--
-**moraes404/moraes404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Boas vindas! 🌟
 
-Here are some ideas to get you started:
+```python
+AUTOR = "Eduardo Ribeiro de Moraes"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+print(f"Me chamo {AUTOR}")
+```
+ ![Static Badge](https://img.shields.io/badge/python-learning-%23946CE6?style=for-the-badge&logo=python&logoColor=%23ffffff)
+ ![Static Badge](https://img.shields.io/badge/c-learning-%23946CE6?style=for-the-badge&logo=c&logoColor=%23ffffff)
+## Perfil Profissional 👨‍💻
+
+ Abaixo estão algumas das linguagens e tecnologias com as quais estou familiar:
+
+### Linguagens
+ [![My Skills](https://skillicons.dev/icons?i=js,ts,c,py,html,css)](https://skillicons.dev)
+
+### Frameworks e Runtime
+ [![My Skills](https://skillicons.dev/icons?i=flask,express,nodejs)](https://skillicons.dev)
+
+### Banco de Dados
+ [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+
+### Ambientes e Ferramentas
+ [![My Skills](https://skillicons.dev/icons?i=vscode,vim,gamemakerstudio,github,git,docker)](https://skillicons.dev)
+
+### Plataformas
+ [![My Skills](https://skillicons.dev/icons?i=windows,linux,arch,mint)](https://skillicons.dev)
+
+<br>
+
+# Contato 📧
+
+### Tem alguma ideia interessante, colaboração ou só assunto em mente?
+### Entre em contato!! estarei esperando sua mensagem ✨
+<a href="mailto:eduardo.moraes78r@gmail.com">
+ <img src="https://img.shields.io/badge/eduardo.moraes78r@gmail.com-%23fff?style=for-the-badge&logo=gmail&logoColor=%23EA4335"
+   alt="email"
+   >
+</a>
